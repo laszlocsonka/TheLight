@@ -4,7 +4,7 @@ Simple Flashlight app made with Android Studio
 <br/> 
 
 <ul>
-  <li>Kotlin language</li>
+  <li>Java language</li>
 </ul> 
 
 <br/> 
