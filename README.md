@@ -5,8 +5,9 @@ Simple Flashlight app made with Android Studio
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/43496943/142928940-b1007708-c76d-47ed-bc13-1b191ecf7873.jpg" style="width:30%">
-    <img src="https://user-images.githubusercontent.com/43496943/142928973-7b84dce4-90fc-4d3e-b23a-9ea07927dc6d.jpg" style="width:30%">
-    <img src="https://user-images.githubusercontent.com/43496943/142930569-3d08340a-1741-4fa8-bf83-bb5d8db715f5.jpg" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/43496943/142931951-c561f29b-d12c-4534-b08a-1b804cf23762.jpg" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/43496943/142931959-9100d795-dd72-4c4b-82a8-54288a99d0bc.jpg" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/43496943/142931967-521d5a2a-b563-4fc0-9047-2636bd98961f.jpg" style="width:30%">
   </div>
 </div>
+
