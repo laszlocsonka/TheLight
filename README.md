@@ -3,6 +3,12 @@ Simple Flashlight app made with Android Studio
 
 <br/> 
 
+<ul>
+  <li>Kotlin language</li>
+</ul> 
+
+<br/> 
+
 <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/43496943/142931951-c561f29b-d12c-4534-b08a-1b804cf23762.jpg" style="width:30%">
